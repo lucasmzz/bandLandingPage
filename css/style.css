@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+}  
+#navbar {
+    background-color: rgba(21,21,21,0.5) !important;
+    border-bottom: 1px solid gray;
+}
+
+#header { 
+    /* The image used
+    background-image: url("../img/main.jpg");*/
+    
+    /* Full height
+    height: 100%; */
+  
+    /* Center and scale the image nicely
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
+
+#albums {
+    padding: 50px 0;
+}
